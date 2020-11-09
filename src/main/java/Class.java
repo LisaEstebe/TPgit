@@ -11,4 +11,7 @@
 public class Class {
     
     // commentaire
+    
+    // J'apporte des modifications à ton projet
+    
 }
