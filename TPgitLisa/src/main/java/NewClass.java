@@ -11,6 +11,6 @@
 public class NewClass {
     //Coucou les amis :) 
     //Salut toi :D
-
+    // Je provoque un conflit, c'est à votre tour de le résoudre !
     //Bien ou bien ?
 }
