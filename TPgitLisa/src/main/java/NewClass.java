@@ -10,6 +10,6 @@
  */
 public class NewClass {
     //Coucou les amis :) 
-    
+    //Salut toi :D
     
 }
